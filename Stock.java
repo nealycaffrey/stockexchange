@@ -1,7 +1,7 @@
 import java.util.PriorityQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-
+//this
 /* Main Stock class. Contains info about the stock.
  * 1. Company Name
  * 2. Symbol
